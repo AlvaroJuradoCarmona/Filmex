@@ -1,0 +1,49 @@
+.nav_theaters{
+	position: fixed;
+	margin: 0;
+	margin-right: 50px;
+	padding: 0;
+	width: 25%;
+	background-color: #420b0b;
+	font-size: larger;
+}
+
+.nav_menu{
+	list-style: none;
+}
+
+.nav_menu a:link{
+	text-decoration: none;
+}
+
+.nav_menu a:visited{
+	text-decoration: none;
+}
+
+.formulary{
+	color: blue;
+	list-style: none;
+}
+select, option{
+    color: black;
+}
+
+button{
+	color: black;
+}
+
+.releases{
+	margin: auto;
+}
+
+.releases tr td{
+	vertical-align: top;
+}
+
+.releases tr td a img{
+	margin-bottom: 30px;
+	margin-right: 10px;
+	width: 272px;
+	height: 403px;
+}
+

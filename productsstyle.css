@@ -1,0 +1,20 @@
+.products_en{
+	margin: auto;
+	text-align: center;
+}
+
+.products_en tr td img{
+	width: 80%;
+	height: 80%;
+}
+
+.packs_en{
+	margin: auto;
+	text-align: center;
+}
+
+.packs_en tr td img{
+	width: 80%;
+	height: 80%;
+}
+	

@@ -1,0 +1,47 @@
+#movie_title{
+	font-size: 50px;
+	padding-left: 2%;
+}
+
+#poster{
+	width: 350px;
+	border: 0px;
+}
+.secondary_en{
+	margin: auto;
+}
+.secondary_en tr td iframe{
+	width: 840px;
+	height: 472.5px;
+}
+
+#schedule { 
+	float: right;
+	margin: 100px;
+	margin-left: 50px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: rgb(88, 14, 14);
+}
+
+#schedule th{
+	text-align: left;
+}
+
+#schedule .time{
+	padding: 5px;
+}
+
+#schedule .screening{
+	padding-left: 50px;
+}
+
+#movie_info{
+	padding: 20px;
+	text-align: justify;
+}
+
+#movie_info dt{
+	font-weight: bold;
+}
